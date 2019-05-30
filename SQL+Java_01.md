@@ -1,8 +1,7 @@
 # java + SQL Basic (2019.05.30)
 
 
-
-```java
+java
 package db1;
 
 import java.sql.Connection;
